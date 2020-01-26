@@ -1,4 +1,4 @@
-# doit
+# Recipe App
 
 > My priceless Nuxt.js project
 
